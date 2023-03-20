@@ -1,1 +1,2 @@
 # odin-recipes
+With this project, I will build a basic recipe website. The purpose of this assignment is to practice and build basic HTML skills -- I will create a main index file, and add links. In the future, I will revisit this website to add style with CSS.
